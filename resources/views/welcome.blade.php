@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    CODING
+                    FUTURE FOR WARD
                 </div>
 
                 <div class="links">
